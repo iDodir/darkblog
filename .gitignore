@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 
 .idea/
+siteblog/siteblog/static/
+siteblog/static/
+siteblog/blog/migrations/
 
 # C extensions
 *.so
