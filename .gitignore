@@ -7,6 +7,8 @@ __pycache__/
 siteblog/siteblog/static/
 siteblog/static/
 siteblog/blog/migrations/
+siteblog/media/
+siteblog/django_cache/
 
 # C extensions
 *.so
